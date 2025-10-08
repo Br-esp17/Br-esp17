@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @Br-esp17
-- I'm trying to learn how to programming like a master 
-- I’m currently learning python 
-- looking for some feedback <3
-- How to reach me (espinalbrian17@gmail.com)
-- 😄 Pronouns: "Bra"
+- 👋 Hi, I’m @Br-esp17 |
+I’m a junior programmer with skills in Python, data analysis, and automation. A fast learner with a creative mindset,
+team spirit, and a drive to keep improving and building cool things.
+looking for some feedback | How to reach me (espinalbrian17@gmail.com) |
+
   
 
 <!---
